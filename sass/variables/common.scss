@@ -1,0 +1,7 @@
+@mixin main($width, $height, $display, $justify-content, $align-items){
+  width: $width;
+  height: $height;
+  display: $display;
+  justify-content: $justify-content;
+  align-items: $align-items;
+}
